@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://www.google.com/search?q=sun+pictures&rlz=1C1GCEB_enUS831US831&tbm=isch&source=iu&ictx=1&fir=6z64WdQTbALqdM%253A%252C_fD5XoaNdUP2YM%252C_&usg=AI4_-kQ4cPDiCJCrGJlUfSYLmNdb6kLmpg&sa=X&ved=2ahUKEwiEyp2y7PLfAhUJQK0KHavsAL0Q9QEwAXoECAIQBg#imgrc=05SS98yykCAc8M:)
+![Hosted image](https://en.wikipedia.org/wiki/File:Sun_white.jpg)
 
 ## Paragraphs
 
